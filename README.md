@@ -38,10 +38,10 @@
 - You can search for whatever product you wish irrespective of your college
 
 ## Tech Stack
-> Flutter and Dart (Front-End)
-> MongoDB Atlas (DataBase Provider)
-> Firebase Storage (Storing Images of Products)
-> Firebase Authentication (Authenticating Users)
+- `Flutter and Dart` (Front-End)
+- `MongoDB Atlas` (DataBase Provider)
+- `Firebase Storage` (Storing Images of Products)
+- `Firebase Authentication` (Authenticating Users)
 
 ---
 
