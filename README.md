@@ -19,7 +19,7 @@
 - Add your `MongoDB Atlas Cluster` in `lib/service/dbConfig.dart`
 - Register your app on `FireBase`
 - Paste the .json file in `android/app`
-- You are go to go run your app and enjoy the things
+- You are good to go run your app and enjoy the things
 
 ## Direct Download
 > You can Simple download the final app using this [link](https://drive.google.com/file/d/1DdoaHC-8BogQf-cbLq0L0p6pyjtvGmm5/view?usp=sharing)
