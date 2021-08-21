@@ -12,6 +12,8 @@
 - User Email: example@example.com
 - User Password: 87654321\*
 
+Or you can register new user but the college used here is `kongu engineering college`. So use the same with correct spelling to get the results.
+
 ## Installation
 
 - Clone the repo
