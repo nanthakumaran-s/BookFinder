@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "741758258658",
+    "project_id": "bookfinder-6fdc8",
+    "storage_bucket": "bookfinder-6fdc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741758258658:android:d4579d74698837f1937dbb",
+        "android_client_info": {
+          "package_name": "com.nanthakumaran.bookfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741758258658-re8tsppub7q3bhgrbvcrkpl7akvduf04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nanthakumaran.bookfinder",
+            "certificate_hash": "493a41033115705e1e310f855697ffb4dfddb055"
+          }
+        },
+        {
+          "client_id": "741758258658-14greaeo5q12fttgavl5cu9d693n0fju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo3EIempCpJgdI1TAM08dXSm0aw3f0_gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741758258658-14greaeo5q12fttgavl5cu9d693n0fju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "741758258658-6maghda7oreugsuadst09e8efq7udhtk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nanthakumaran.bookfinder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
